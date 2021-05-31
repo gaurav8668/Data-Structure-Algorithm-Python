@@ -1,0 +1,7 @@
+Big O : 
+		Big O notation is used to measure how running time or space requriements for your
+		program grow as input size grows.
+		Eg : 
+			def foor(arr):		# arr = 100 ---> 0.22 miliseconds
+								# arr = 1000 --> 2.31 miliseconds
+									time = a * n + b
